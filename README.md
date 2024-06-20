@@ -1,6 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQHsC96EqVLY5Q/profile-displaybackgroundimage-shrink_350_1400/0/1718886745124?e=1724284800&v=beta&t=Lw-d44-5QHVmBDWotQHL7y5m-1UFgCc8mjGI_sMGZxU)
 <h1 align="center">Hi 👋, I'm Kritansh Tank</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritansh-tank&label=Profile%20views&color=0e75b6&style=flat" alt="kritansh-tank" /> </p>
 
