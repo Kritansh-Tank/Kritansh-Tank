@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/kritansh12" target="blank"><img src="https://img.shields.io/twitter/follow/kritansh12?logo=twitter&style=for-the-badge" alt="kritansh12" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB, Django, Angular**
-
-- 💬 Ask me about **React, Vite, Node**
-
 - 📫 How to reach me **tankkritansh088@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
