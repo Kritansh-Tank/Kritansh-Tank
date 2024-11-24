@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQHsC96EqVLY5Q/profile-displaybackgroundimage-shrink_350_1400/0/1718886745124?e=1724284800&v=beta&t=Lw-d44-5QHVmBDWotQHL7y5m-1UFgCc8mjGI_sMGZxU)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHsC96EqVLY5Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718886745124?e=1738195200&v=beta&t=0FZPagrNqvg3elZTiM1iblqx_hScHE26cTH2fn_zbX4)
 <h1 align="center">Hi 👋, I'm Kritansh Tank</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" width="350" height="250" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
