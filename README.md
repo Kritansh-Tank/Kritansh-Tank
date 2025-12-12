@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/uc?id=1HdTXbKU71gB5YfyZltAjRj96-AEdo_mT&w=1584&h=396)
+![MasterHead](https://drive.google.com/file/d/1HdTXbKU71gB5YfyZltAjRj96-AEdo_mT/view?usp=drive_link)
 <h1 align="center">Hi 👋, I'm Kritansh Tank</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" width="350" height="250" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
