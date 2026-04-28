@@ -71,9 +71,9 @@ public class KritanshTank {
 
 | Project | Description | Stack |
 |---|---|---|
-| 🌿 **[EcoTravel](https://github.com/Kritansh-Tank)** | Web platform for planning sustainable trips, promoting eco-friendly travel without sacrificing convenience | Next.js · Node.js · MongoDB |
-| 🆘 **[Disaster Response Platform](https://github.com/Kritansh-Tank)** | Backend-heavy MERN app with real-time data, geospatial mapping, AI location extraction & social media monitoring | MERN · AI · WebSockets |
-| 🍔 **[FoodOrder](https://github.com/Kritansh-Tank)** | Full-stack team food ordering app with RBAC, country-based isolation, Stripe payments & JWT auth | Next.js 15 · NestJS · Supabase · Stripe |
+| 🎮 **[Digital Heroes](https://github.com/Kritansh-Tank/digitalheroes)** | Subscription-based platform with Stripe billing, auth persistence & real-time dashboard | Next.js · Django · Stripe · PostgreSQL |
+| 🪪 **[Playto KYC Pipeline](https://github.com/Kritansh-Tank/playto-kyc)** | Production-grade KYC onboarding system with state machine, SLA tracking & file validation | Django · DRF · React · Render |
+| 🤖 **[HiDevs AI Hub](https://github.com/Kritansh-Tank/hidevs)** | AI tools platform deployed on Vercel + Render with FastAPI backend & CORS-hardened API layer | FastAPI · React · Vercel · Render |
 
 ---
 
@@ -150,7 +150,7 @@ public class KritanshTank {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kritansh-tank&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kritansh-tank&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritansh-tank&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </div>
