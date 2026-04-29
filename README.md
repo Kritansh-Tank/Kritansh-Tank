@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <sub>☕ <b>Java</b> — Primary Programming Language for 8+ Years</sub>
+  <h4>☕ <b>Java</b> — Primary Programming Language for 8+ Years</h4>
 </div>
 
 <!-- Typing Animation -->
