@@ -24,13 +24,6 @@
   &nbsp;
   <a href="mailto:tankkritansh088@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <a href="https://www.leetcode.com/tankkritansh088"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-  &nbsp;
-  <a href="https://kaggle.com/kritanshtank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://medium.com/@tankkritansh088"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://twitter.com/kritansh12"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
 </div>
 
 ---
@@ -41,7 +34,7 @@
 public class KritanshTank {
     String   location   = "Jhumri Telaiya, India 🇮🇳";
     String   role       = "Full Stack AI Developer";
-    String   education  = "B.Tech CSE @ BVDU (9.58 CGPA) · 2021–2025";
+    String   education  = "B.Tech CSE @ BVDU (9.5 CGPA) · 2021–2025";
     String[] experience = {"Software Dev Intern @ EcoReady Germany (2025)",
                            "AI Intern @ Infosys Springboard 5.0 (2024)",
                            "Full Stack Intern @ Grid R&D Bengaluru (2024)"};
@@ -63,11 +56,15 @@ public class KritanshTank {
 - Integrated **MongoDB** for NoSQL data storage and retrieval
 - Managed full-cycle deployment on **AWS** with scalability and security best practices
 
+**AI & ML Intern** · Infosys (Springboard 5.0) Bengaluru *(Remote · Oct – Dec 2024)*
+- Developed an AI-based skin cancer screening system involving medical **image preprocessing**, **deep learning-based image classification**,
+and **model performance optimization** for accurate prediction and analysis.
+
 **Full Stack Development Intern** · Grid R&D Bengaluru *(Remote · Jul – Sep 2024)*
-- Built responsive UIs with **React.js** and **Tailwind CSS**
-- Developed and optimized RESTful APIs using **Node.js & Express.js**
-- Implemented relational DB operations via **MySQL**
-- Resolved critical integration issues in fast-paced Agile sprints
+- Built responsive UIs using **React.js** and **Tailwind CSS**, directly enhancing user experience.
+- Developed and optimized RESTful APIs using the lightweight **Node.js** & **Express.js** framework.
+- Implemented relational database operations via **MySQL** to efficiently store and manage operations.
+- Resolved critical integration issues in a fast-paced team environment to ensure seamless product delivery.
 
 ---
 
