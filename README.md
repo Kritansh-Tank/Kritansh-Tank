@@ -32,12 +32,12 @@
 
 ```java
 public class KritanshTank {
-    String   location   = "Jhumri Telaiya, India 🇮🇳";
+    String   location   = "Jhumri Telaiya, Koderma, Jharkhand, India 🇮🇳";
     String   role       = "Full Stack AI Developer";
     String   education  = "B.Tech CSE @ BVDU (9.5 CGPA) · 2021–2025";
-    String[] experience = {"Software Dev Intern @ EcoReady Germany (2025)",
-                           "AI Intern @ Infosys Springboard 5.0 (2024)",
-                           "Full Stack Intern @ Grid R&D Bengaluru (2024)"};
+    String[] experience = {"Software Development Intern @ EcoReady Germany (2025)",
+                           "AI & ML Intern @ Infosys Springboard 5.0 (2024)",
+                           "Full Stack Development Intern @ Grid R&D Bengaluru (2024)"};
     String[] stack      = {"MERN", "Next.js", "NestJS", "Django", "FastAPI"};
     String[] aiTools    = {"LangChain", "crewAI", "LLMs", "RAG", "GenAI"};
     String[] cloud      = {"GCP", "AWS", "Azure", "Cloudflare", "Docker"};
@@ -51,20 +51,22 @@ public class KritanshTank {
 ## 💼 Experience
 
 **Software Development Intern** · EcoReady Germany *(Remote · Jul – Dec 2025)*
-- Engineered performant, reusable UIs with **Next.js** and **Tailwind CSS**
-- Built enterprise-grade RESTful APIs using **NestJS**
-- Integrated **MongoDB** for NoSQL data storage and retrieval
-- Managed full-cycle deployment on **AWS** with scalability and security best practices
+- Developed scalable full-stack applications using Next.js, TypeScript, Tailwind CSS, and NestJS with reusable UI components and RESTful
+APIs.
+- Built AI-powered document intelligence workflows using LLMs, Retrieval-Augmented Generation (RAG), OpenSearch, PaddleOCR, and
+TesseractOCR.
+- Integrated enterprise platforms including Gmail, SharePoint, Slack, HubSpot, and Salesforce using secure OAuth authentication.
+- Optimized document retrieval quality through metadata management, indexing improvements, and backend performance optimization.
+- Collaborated with distributed Agile teams while working on cloud-native software solutions and EU AI compliance initiatives.
 
 **AI & ML Intern** · Infosys (Springboard 5.0) Bengaluru *(Remote · Oct – Dec 2024)*
-- Developed an AI-based skin cancer screening system involving medical **image preprocessing**, **deep learning-based image classification**,
-and **model performance optimization** for accurate prediction and analysis.
+- Developed an AI-based skin cancer screening system using medical image preprocessing, deep learning, and model evaluation
+techniques.
+- Improved prediction accuracy through dataset preprocessing, experimentation, and performance optimization.
 
 **Full Stack Development Intern** · Grid R&D Bengaluru *(Remote · Jul – Sep 2024)*
-- Built responsive UIs using **React.js** and **Tailwind CSS**, directly enhancing user experience.
-- Developed and optimized RESTful APIs using the lightweight **Node.js** & **Express.js** framework.
-- Implemented relational database operations via **MySQL** to efficiently store and manage operations.
-- Resolved critical integration issues in a fast-paced team environment to ensure seamless product delivery.
+- Built responsive React.js applications and scalable backend services using Node.js, Express.js, and MySQL.
+- Developed REST APIs, optimized database queries, resolved integration issues, and collaborated in Agile development cycles.
 
 ---
 
@@ -72,9 +74,8 @@ and **model performance optimization** for accurate prediction and analysis.
 
 | Project | Description | Stack |
 |---|---|---|
-| 🎮 **[Digital Heroes](https://github.com/Kritansh-Tank/digitalheroes)** | Subscription-based platform with Stripe billing, auth persistence & real-time dashboard | Next.js · Django · Stripe · PostgreSQL |
-| 🪪 **[Playto KYC Pipeline](https://github.com/Kritansh-Tank/playto-kyc)** | Production-grade KYC onboarding system with state machine, SLA tracking & file validation | Django · DRF · React · Render |
-| 🤖 **[HiDevs AI Hub](https://github.com/Kritansh-Tank/hidevs)** | AI tools platform deployed on Vercel + Render with FastAPI backend & CORS-hardened API layer | FastAPI · React · Vercel · Render |
+| 🚌 **[TransitOps](https://transitops-dusky.vercel.app/)** | Developed an enterprise-grade fleet management system with AI-powered dispatch advisory, predictive maintenance summaries, role-based access control, and real-time operational analytics, optimized for scalable transport operations. | Next.js, TypeScript, Supabase, PostgreSQL, Groq AI, Tailwind CSS, Zustand, TanStack Query, Resend, Docker, Vercel |
+| 🌿 **[GreenTrace](https://green-trace-topaz.vercel.app/)** | Engineered a full-stack AI platform leveraging autonomous AI Agents, ReAct reasoning, and MCP-based tool calling to deliver personalized sustainability recommendations, secure user management, and cloud-native deployment. | Next.js, TypeScript, React, Supabase, PostgreSQL, Groq LLM, MCP, AI Agents, Stripe, Tailwind CSS, Vercel |
 
 ---
 
