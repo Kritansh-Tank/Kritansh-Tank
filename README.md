@@ -174,9 +174,9 @@ techniques.
 
 ## 🎓 Certifications
 
-- 🏅 **McKinsey.org Forward** Certification
-- 🏅 **EU CloudCamp4SMEs – AWS Cloud** Certification
-- 🏅 **GitHub Foundations** Certification
+- 🏅 **Google Cloud Certified: Associate Cloud Engineer** Certification
+- 🏅 **Microsoft Certified: Azure AI Apps and Agents Developer Associate** Certification
+- 🏅 **Copado Certified: Copado AI Salesforce DevOps** Certification
 
 ---
 
