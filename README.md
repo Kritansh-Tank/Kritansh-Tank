@@ -59,24 +59,15 @@ TesseractOCR.
 - Optimized document retrieval quality through metadata management, indexing improvements, and backend performance optimization.
 - Collaborated with distributed Agile teams while working on cloud-native software solutions and EU AI compliance initiatives.
 
-**AI & ML Intern** · Infosys (Springboard 5.0) Bengaluru *(Remote · Oct – Dec 2024)*
-- Developed an AI-based skin cancer screening system using medical image preprocessing, deep learning, and model evaluation
-techniques.
-- Improved prediction accuracy through dataset preprocessing, experimentation, and performance optimization.
-
-**Full Stack Development Intern** · Grid R&D Bengaluru *(Remote · Jul – Sep 2024)*
-- Built responsive React.js applications and scalable backend services using Node.js, Express.js, and MySQL.
-- Developed REST APIs, optimized database queries, resolved integration issues, and collaborated in Agile development cycles.
-
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| **[VIGIL](https://vigil-smoky.vercel.app/)** | A real-time industrial safety intelligence platform that combines live sensor streams, work permits, shift context, and historical incidents to detect compound risks before they escalate. It leverages AI agents, RAG, and LLMs to deliver intelligent risk assessment, permit validation, incident analysis, and emergency response for heavy industrial environments. | Next.js 16, Tailwind CSS, React 19, TypeScript, MongoDB Atlas, LangChain.js, Groq API, AWS SES, AWS S3, Vercel |
-| **[TransitOps](https://transitops-dusky.vercel.app/)** | Developed an enterprise-grade fleet management system with AI-powered dispatch advisory, predictive maintenance summaries, role-based access control, and real-time operational analytics, optimized for scalable transport operations. | Next.js, TypeScript, Supabase, PostgreSQL, Groq AI, Tailwind CSS, Zustand, TanStack Query, Resend, Docker, Vercel |
-| **[GreenTrace](https://green-trace-topaz.vercel.app/)** | Engineered a full-stack AI platform leveraging autonomous AI Agents, ReAct reasoning, and MCP-based tool calling to deliver personalized sustainability recommendations, secure user management, and cloud-native deployment. | Next.js, TypeScript, React, Supabase, PostgreSQL, Groq LLM, MCP, AI Agents, Stripe, Tailwind CSS, Vercel |
+| **[DataBoard](https://d2bnceyxxb14a6.cloudfront.net/)** | A cloud-deployed full-stack analytics platform that allows users to upload CSV datasets, validate and process data, perform statistical analysis, and explore results through interactive visualizations. It includes user authentication, dataset management, API-driven backend processing, and production deployment on AWS. The platform reads uploaded CSV data into memory, validates it, stores dataset rows as JSON in PostgreSQL, and provides statistical operations such as min, max, and sum with structured error handling. | Angular 21, TypeScript, Tailwind CSS, ECharts, RxJS, Python 3.14, FastAPI, Uvicorn, Pydantic, PostgreSQL, SQLAlchemy, psycopg2, JWT (python-jose), Passlib/bcrypt, Pandas, pytest, AWS EC2, AWS RDS, AWS S3, AWS CloudFront, Ubuntu, systemd |
+| **[VIGIL](https://vigil-smoky.vercel.app/)** | A real-time compound risk intelligence platform for heavy industrial facilities. It combines live sensor streams, active work permits, shift context, worker data, and historical industrial incidents to identify risks that isolated alerts may miss. The platform includes a command centre, AI-powered permit validation, incident intelligence using RAG, and emergency-response planning. It uses four AI agents for compound risk analysis, permit intelligence, incident RAG, and emergency response, with live sensor monitoring across multiple industrial zones. | Next.js 16, React 19, TypeScript, Groq API, Llama 3.1 8B, LangChain.js, MongoDB Atlas, AWS S3, AWS SES, Server-Sent Events (SSE), jsPDF, PDFKit, Custom TypeScript simulator, Vanilla CSS |
+| **[GreenTrace](https://green-trace-topaz.vercel.app/)** | an AI-powered sustainability SaaS platform designed to help users track sustainability-related data and interact with intelligent workflows. It combines full-stack web application features with AI-assisted interactions, authentication, data management, external service integrations, and an agent-based architecture. The platform includes a Groq-powered ReAct agent and a custom MCP server using JSON-RPC 2.0, enabling AI-driven workflows and tool-based interactions. It is deployed on Vercel with PostgreSQL/Supabase for application data. | Next.js, React, TypeScript, NestJS, Node.js, PostgreSQL, Supabase, Groq, ReAct Agent, MCP, JSON-RPC 2.0, OAuth / JWT, Stripe, REST APIs, external API integrations, Vercel, Caching, third-party services |
 
 ---
 
@@ -88,8 +79,7 @@ techniques.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Backend & Frameworks**
 
@@ -98,14 +88,12 @@ techniques.
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 **Frontend**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
@@ -174,9 +162,9 @@ techniques.
 
 ## 🎓 Certifications
 
-- 🏅 **Google Cloud Certified: Associate Cloud Engineer** Certification
-- 🏅 **Microsoft Certified: Azure AI Apps and Agents Developer Associate** Certification
-- 🏅 **Copado Certified: Copado AI Salesforce DevOps** Certification
+- 🏅 **Google Cloud Certified: Associate Cloud Engineer**
+- 🏅 **Microsoft Certified: Azure AI Apps and Agents Developer Associate**
+- 🏅 **Copado Certified: Copado AI**
 
 ---
 
