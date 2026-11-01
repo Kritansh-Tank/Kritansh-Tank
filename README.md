@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kritansh%20Tank&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20AI%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%201%2B%20Year%20Internship%20Exp&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
-<div align="center">
-  <h4>☕ <b>Java</b> — Primary Programming Language for 8+ Years</h4>
-</div>
-
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
