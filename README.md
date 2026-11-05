@@ -47,13 +47,12 @@ public class KritanshTank {
 ## 💼 Experience
 
 **Software Development Intern** · EcoReady Germany *(Remote · Jul – Dec 2025)*
-- Developed scalable full-stack applications using Next.js, TypeScript, Tailwind CSS, and NestJS with reusable UI components and RESTful
-APIs.
-- Built AI-powered document intelligence workflows using LLMs, Retrieval-Augmented Generation (RAG), OpenSearch, PaddleOCR, and
-TesseractOCR.
-- Integrated enterprise platforms including Gmail, SharePoint, Slack, HubSpot, and Salesforce using secure OAuth authentication.
-- Optimized document retrieval quality through metadata management, indexing improvements, and backend performance optimization.
-- Collaborated with distributed Agile teams while working on cloud-native software solutions and EU AI compliance initiatives.
+- Built the company's website and contributed to its first SaaS prototype, translating product requirements into functional application features.
+- Developed frontend functionality and backend services, including API development, application workflows and third-party integrations.
+- Contributed to AI-powered document intelligence workflows involving OCR, document processing, automated tagging, indexing and information retrieval.
+- Worked on knowledge-base and retrieval-augmented generation workflows involving model integration, reranking, guardrails and source citations.
+- Contributed to feature development and documentation for the company's MVP and website.
+- Represented EcoReady at the ClimateX Go Global Programme in Bengaluru and Bangalore Tech Summit 2025.
 
 ---
 
@@ -61,9 +60,9 @@ TesseractOCR.
 
 | Project | Description | Stack |
 |---|---|---|
-| **DataBoard** | A cloud-deployed full-stack analytics platform that allows users to upload CSV datasets, validate and process data, perform statistical analysis, and explore results through interactive visualizations. It includes user authentication, dataset management, API-driven backend processing, and production deployment on AWS. The platform reads uploaded CSV data into memory, validates it, stores dataset rows as JSON in PostgreSQL, and provides statistical operations such as min, max, and sum with structured error handling. | Angular 21, TypeScript, Tailwind CSS, ECharts, RxJS, Python 3.14, FastAPI, Uvicorn, Pydantic, PostgreSQL, SQLAlchemy, psycopg2, JWT (python-jose), Passlib/bcrypt, Pandas, pytest, AWS EC2, AWS RDS, AWS S3, AWS CloudFront, Ubuntu, systemd |
-| **VIGIL** | A real-time compound risk intelligence platform for heavy industrial facilities. It combines live sensor streams, active work permits, shift context, worker data, and historical industrial incidents to identify risks that isolated alerts may miss. The platform includes a command centre, AI-powered permit validation, incident intelligence using RAG, and emergency-response planning. It uses four AI agents for compound risk analysis, permit intelligence, incident RAG, and emergency response, with live sensor monitoring across multiple industrial zones. | Next.js 16, React 19, TypeScript, Groq API, Llama 3.1 8B, LangChain.js, MongoDB Atlas, AWS S3, AWS SES, Server-Sent Events (SSE), jsPDF, PDFKit, Custom TypeScript simulator, Vanilla CSS |
-| **GreenTrace** | an AI-powered sustainability SaaS platform designed to help users track sustainability-related data and interact with intelligent workflows. It combines full-stack web application features with AI-assisted interactions, authentication, data management, external service integrations, and an agent-based architecture. The platform includes a Groq-powered ReAct agent and a custom MCP server using JSON-RPC 2.0, enabling AI-driven workflows and tool-based interactions. It is deployed on Vercel with PostgreSQL/Supabase for application data. | Next.js, React, TypeScript, NestJS, Node.js, PostgreSQL, Supabase, Groq, ReAct Agent, MCP, JSON-RPC 2.0, OAuth / JWT, Stripe, REST APIs, external API integrations, Vercel, Caching, third-party services |
+| **![DataBoard](https://github.com/Kritansh-Tank/databoard)** | A cloud-deployed full-stack analytics platform that allows users to upload CSV datasets, validate and process data, perform statistical analysis, and explore results through interactive visualizations. It includes user authentication, dataset management, API-driven backend processing, and production deployment on AWS. The platform reads uploaded CSV data into memory, validates it, stores dataset rows as JSON in PostgreSQL, and provides statistical operations such as min, max, and sum with structured error handling. | Angular 21, TypeScript, Tailwind CSS, ECharts, RxJS, Python 3.14, FastAPI, Uvicorn, Pydantic, PostgreSQL, SQLAlchemy, psycopg2, JWT (python-jose), Passlib/bcrypt, Pandas, pytest, AWS EC2, AWS RDS, AWS S3, AWS CloudFront, Ubuntu, systemd |
+| **![VIGIL](https://github.com/Kritansh-Tank/vigil)** | A real-time compound risk intelligence platform for heavy industrial facilities. It combines live sensor streams, active work permits, shift context, worker data, and historical industrial incidents to identify risks that isolated alerts may miss. The platform includes a command centre, AI-powered permit validation, incident intelligence using RAG, and emergency-response planning. It uses four AI agents for compound risk analysis, permit intelligence, incident RAG, and emergency response, with live sensor monitoring across multiple industrial zones. | Next.js 16, React 19, TypeScript, Groq API, Llama 3.1 8B, LangChain.js, MongoDB Atlas, AWS S3, AWS SES, Server-Sent Events (SSE), jsPDF, PDFKit, Custom TypeScript simulator, Vanilla CSS |
+| **![GreenTrace](https://github.com/Kritansh-Tank/green-trace)** | an AI-powered sustainability SaaS platform designed to help users track sustainability-related data and interact with intelligent workflows. It combines full-stack web application features with AI-assisted interactions, authentication, data management, external service integrations, and an agent-based architecture. The platform includes a Groq-powered ReAct agent and a custom MCP server using JSON-RPC 2.0, enabling AI-driven workflows and tool-based interactions. It is deployed on Vercel with PostgreSQL/Supabase for application data. | Next.js, React, TypeScript, NestJS, Node.js, PostgreSQL, Supabase, Groq, ReAct Agent, MCP, JSON-RPC 2.0, OAuth / JWT, Stripe, REST APIs, external API integrations, Vercel, Caching, third-party services |
 
 ---
 
@@ -161,6 +160,8 @@ TesseractOCR.
 - 🏅 **Google Cloud Certified: Associate Cloud Engineer**
 - 🏅 **Microsoft Certified: Azure AI Apps and Agents Developer Associate**
 - 🏅 **Copado Certified: Copado AI**
+- 🏅 **Copado Certified: COPADO DATA 360**
+- 🏅 **Copado Certified: AGENTIA ADVANCED**
 
 ---
 
